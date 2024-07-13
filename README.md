@@ -12,10 +12,12 @@ npm i
 npm run dev
 ```
 
-\*\* Next.js/React 'Suspense' feature work with native react context, but doesn't work with 'redux toolkit'.
+<br/>
 
-\*\* Error in browser's console (F12): `app-index.js:33 Warning: Prop `disabled` did not match. Server: "" Client: "false"`
+\*\* `Next.js/React's` `Suspense` feature works properly with native `react context`, but doesn't work with `redux toolkit`.
 
-\*\* (This error keeps button as diabled all the time)
+\*\* Error in browser's console (F12): `app-index.js:33 Warning: Prop 'disabled' did not match. Server: "" Client: "false"`
+
+\*\* This error keeps button as diabled all the time
 
 \*\* First (client) component is inside of Layout, Second (client) component is inside of server component. First (client) component is used for setting data, second (client) component is used to read data and disable button if needed.
