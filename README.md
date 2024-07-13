@@ -1,8 +1,16 @@
-# COMMENTS
+**COMMENTS**
 
-# npm i
+1. initalize the project
 
-# npm run dev
+```sh
+npm i
+```
+
+2. launch the project
+
+```sh
+npm run dev
+```
 
 # Next.js/React 'Suspense' feature work with native react context, but doesn't work with 'redux toolkit'.
 
