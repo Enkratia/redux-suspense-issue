@@ -1,0 +1,22 @@
+{
+  "node": {
+    "163cf8fc7a52cacb33b090ca4e43135c63bea24f": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Facer%2F%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%2Fother%2FsuspenseTest%2Futils%2Factions.ts%22%2C%5B%22getCartCookiesAction%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "c76c8f25d97db23ac19501e1afa42ff444996f4b": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Facer%2F%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%2Fother%2FsuspenseTest%2Futils%2Factions.ts%22%2C%5B%22getCartCookiesAction%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "wekXfj4JQ3pnAs6mgJgmT6JI11ljXF/bU0WAmN5kxvY="
+}
